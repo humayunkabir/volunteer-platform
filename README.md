@@ -10,6 +10,6 @@ Bring all the volunteer organisations in a common platform. It's like a bridge b
 - Uniform distribution of volunteer service
 - Overall, get connected with the people in the crisis situation
 
-**Company/Volunteer:** *All companies or organization will register to help the people; their stock/availability of food or medical supplies will be shown in the App*
+**Company/Volunteer:** *All companies or organization will register to help the people; their stock/availability of food or medical supplies will be shown in the App and Website*
 
-**Consumer:** A consumer can rise a request for him or behalf of other people.
+**Consumer:** *A consumer can rise a request for him or behalf of other people.*
